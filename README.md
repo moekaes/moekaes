@@ -5,8 +5,11 @@ noun. ma•n•us
 Welcome to my Repository of my GitHub Repositories which hosts many <b>✨ special ✨ repositories</b> which are easy to understand and use
 
 
- [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasmalla&show_icons=true&border_radius=16&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasmalla&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
 <!--
 **moekaes/moekaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
